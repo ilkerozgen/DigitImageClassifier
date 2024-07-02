@@ -47,7 +47,7 @@ This project is divided into two main parts: PCA Analysis and Logistic Regressio
 
 To run the project, follow these steps:
 
-1. On the command line, navigate to the directory where the `q1.py` and `q2.py` files are located.
+1. On the command line, navigate to the directory where the `pca.py` and `classifier.py` files are located.
 2. To run each script, type:
    ```bash
    python pca.py
